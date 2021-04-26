@@ -1,2 +1,2 @@
-# portfolio
+# nrzikhsn.github.io
 portfolio sederhana
